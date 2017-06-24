@@ -1,0 +1,32 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Lga</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+
+    <string name="lamps">Lamps</string>
+    <string name="home">Home</string>
+    <string name="more">More</string>
+    <string name="back">Back</string>
+    <string name="setting">Setting</string>
+    <string name="version">Version</string>
+    <string name="scanning">Scanning...</string>
+    <string name="wlan">WLAN</string>
+
+    <string name="wlan_off">Wlan is off.</string>
+    <string name="port_used">Udp port has being used, please try again after exit other apps.</string>
+    <string name="interference">Please close the interference devices.</string>
+
+    <string name="device_not_connected">Cannot connect devices, please check the network connection.</string>
+
+    <string name="connect_home_net">Connect WiFi device to your router</string>
+    <string name="reset">Restore device to factory default setting</string>
+    <string name="information">Information</string>
+
+    <string name="version_no"> version <xliff:g id="value">%1$s</xliff:g></string>
+
+    <string name="device_not_found">No device found, wlan may be incorrect. Please try again after connected correct wlan.</string>
+    <string name="home_net_already">Already connected home net.</string>
+
+    <string name="no_wlan">No WLAN.</string>
+
+</resources>

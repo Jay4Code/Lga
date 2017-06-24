@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="guide_labels">
+        <item>Guide 1</item>
+        <item>Guide 2</item>
+        <item>Guide 3</item>
+    </array>
+</resources>
